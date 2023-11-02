@@ -44,7 +44,16 @@ src <br>
 
 ## Usage
 
-Feel free to modify this template to suit your project's specific needs. You can add additional packages and features as required.
+Feel free to modify this template to suit your project's specific needs. You can add additional packages and features as required. 
+You just need to:
+
+src <br>
+  &ensp;├── assets/<br>
+  &ensp;├── components/<br>
+  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;├──MenuComponent.vue<br>
+  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(delete the style below)
+  
+  and change the /public favicon to a personal one, remember that it is .png!
 
 ## License
 
