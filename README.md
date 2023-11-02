@@ -53,7 +53,7 @@ src <br>
   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;├──MenuComponent.vue<br>
   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(delete the style below)
   
-  and change the /public favicon to a personal one, remember that it is .png!
+  And change the **/public** favicon to a personal one, remember that it is .png!
 
 ## License
 
