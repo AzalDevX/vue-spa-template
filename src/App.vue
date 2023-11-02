@@ -1,10 +1,7 @@
 <template>
-  <header>
-
-    <div class="wrapper">
-    </div>
-  </header>
-
+  <MenuComponent/>
+  
+  
   <RouterView />
 </template>
 
@@ -12,10 +9,12 @@
 
 <script>
 import { RouterView } from 'vue-router'
+import MenuComponent from '@/components/MenuComponent.vue'
 
 export default {
   components: {
     RouterView,
+    MenuComponent
   },
   created() {},
   mounted(){},
