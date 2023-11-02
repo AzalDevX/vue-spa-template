@@ -5,8 +5,6 @@
   <RouterView />
 </template>
 
-
-
 <script>
 import { RouterView } from 'vue-router'
 import MenuComponent from '@/components/MenuComponent.vue'
