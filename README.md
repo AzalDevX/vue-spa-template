@@ -41,6 +41,16 @@ src <br>
   &ensp;├── App.vue<br>
   &ensp;├── main.js
 
+## Dependences
+
+```json
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "eslint": "^8.49.0",
+    "eslint-plugin-vue": "^9.17.0",
+    "vite": "^4.4.9"
+  }
+```
 
 ## Usage
 
